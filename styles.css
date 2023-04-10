@@ -6,15 +6,18 @@
   
   body {
     font-family: 'Roboto', sans-serif;
-    background-image: url('https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1350&q=80');
+    background-image: url('https://image.winudf.com/v2/image1/bmV0Lm9hcHAuYXNtcl9pY29uXzE2MjUwNjM0NjlfMDgx/icon.webp?w=2500&fakeurl=1&type=.webp');
     background-size: cover;
-    background-position: center;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
     padding: 10px;
   }
+  
+  
   
   .container {
     background-color: rgba(255, 255, 255, 0.9);
